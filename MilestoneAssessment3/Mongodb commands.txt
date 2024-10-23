@@ -1,0 +1,56 @@
+Mongodb commands
+
+create database:-
+database name "GymDatabase"
+
+use GymDatabase;
+db.UserProfile.insertMany([
+    {
+        Name: "John Doe",
+        id: "some_id_value_1",
+        DurationMinutes: 45,
+        Date: new ISODate("2024-08-23T00:00:00Z")
+    },
+    {
+        Name: "Jane Smith",
+        id: "some_id_value_2",
+        DurationMinutes: 30,
+        Date: new ISODate("2024-08-22T00:00:00Z")
+    },
+    {
+        Name: "Bob Johnson",
+        id: "some_id_value_3",
+        DurationMinutes: 60,
+        Date: new ISODate("2024-08-21T00:00:00Z")
+    }
+])
+
+
+Now add nutrition collection:
+db.Nutrition.insertMany([
+    {
+        UserId: "user_id_1",
+        Date: new ISODate("2024-08-23T00:00:00Z"),
+        WorkoutType: "Cardio",
+        DurationMinutes: 45
+    },
+    {
+        UserId: "user_id_2",
+        Date: new ISODate("2024-08-22T00:00:00Z"),
+        WorkoutType: "Strength Training",
+        DurationMinutes: 60
+    },
+    {
+        UserId: "user_id_3",
+        Date: new ISODate("2024-08-21T00:00:00Z"),
+        WorkoutType: "Yoga",
+        DurationMinutes: 30
+    }
+])
+
+
+
+
+ 
+
+

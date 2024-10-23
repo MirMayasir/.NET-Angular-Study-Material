@@ -1,0 +1,14 @@
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram3.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram3.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram3.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram3.exe
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram3.deps.json
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram3.runtimeconfig.json
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram3.dll
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram3.pdb
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram3.dll
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\refint\LogicalProgram3.dll
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram3.pdb
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram3.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\ref\LogicalProgram3.dll

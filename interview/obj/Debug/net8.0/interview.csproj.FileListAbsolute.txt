@@ -1,0 +1,14 @@
+C:\Users\Mayasar\source\repos\interview\bin\Debug\net8.0\interview.exe
+C:\Users\Mayasar\source\repos\interview\bin\Debug\net8.0\interview.deps.json
+C:\Users\Mayasar\source\repos\interview\bin\Debug\net8.0\interview.runtimeconfig.json
+C:\Users\Mayasar\source\repos\interview\bin\Debug\net8.0\interview.dll
+C:\Users\Mayasar\source\repos\interview\bin\Debug\net8.0\interview.pdb
+C:\Users\Mayasar\source\repos\interview\obj\Debug\net8.0\interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\interview\obj\Debug\net8.0\interview.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\interview\obj\Debug\net8.0\interview.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\interview\obj\Debug\net8.0\interview.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\interview\obj\Debug\net8.0\interview.dll
+C:\Users\Mayasar\source\repos\interview\obj\Debug\net8.0\refint\interview.dll
+C:\Users\Mayasar\source\repos\interview\obj\Debug\net8.0\interview.pdb
+C:\Users\Mayasar\source\repos\interview\obj\Debug\net8.0\interview.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\interview\obj\Debug\net8.0\ref\interview.dll

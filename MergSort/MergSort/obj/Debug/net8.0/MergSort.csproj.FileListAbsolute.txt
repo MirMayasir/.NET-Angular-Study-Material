@@ -1,0 +1,14 @@
+C:\Users\Mayasar\source\repos\MergSort\MergSort\bin\Debug\net8.0\MergSort.exe
+C:\Users\Mayasar\source\repos\MergSort\MergSort\bin\Debug\net8.0\MergSort.deps.json
+C:\Users\Mayasar\source\repos\MergSort\MergSort\bin\Debug\net8.0\MergSort.runtimeconfig.json
+C:\Users\Mayasar\source\repos\MergSort\MergSort\bin\Debug\net8.0\MergSort.dll
+C:\Users\Mayasar\source\repos\MergSort\MergSort\bin\Debug\net8.0\MergSort.pdb
+C:\Users\Mayasar\source\repos\MergSort\MergSort\obj\Debug\net8.0\MergSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\MergSort\MergSort\obj\Debug\net8.0\MergSort.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\MergSort\MergSort\obj\Debug\net8.0\MergSort.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\MergSort\MergSort\obj\Debug\net8.0\MergSort.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\MergSort\MergSort\obj\Debug\net8.0\MergSort.dll
+C:\Users\Mayasar\source\repos\MergSort\MergSort\obj\Debug\net8.0\refint\MergSort.dll
+C:\Users\Mayasar\source\repos\MergSort\MergSort\obj\Debug\net8.0\MergSort.pdb
+C:\Users\Mayasar\source\repos\MergSort\MergSort\obj\Debug\net8.0\MergSort.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\MergSort\MergSort\obj\Debug\net8.0\ref\MergSort.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\source\\repos\\LogicProgram 3 word sequence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8255F1CC-7001-4D78-9D27-39754D6547E8}|LogicProgram3.csproj|c:\\users\\mayasar\\source\\repos\\logicprogram 3 word sequence\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8255F1CC-7001-4D78-9D27-39754D6547E8}|LogicProgram3.csproj|solutionrelative:mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8255F1CC-7001-4D78-9D27-39754D6547E8}|LogicProgram3.csproj|c:\\users\\mayasar\\source\\repos\\logicprogram 3 word sequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8255F1CC-7001-4D78-9D27-39754D6547E8}|LogicProgram3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\LogicProgram 3 word sequence\\MainMethod.cs",
+              "RelativeDocumentMoniker": "MainMethod.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\LogicProgram 3 word sequence\\MainMethod.cs",
+              "RelativeToolTip": "MainMethod.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:00:31.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\LogicProgram 3 word sequence\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\LogicProgram 3 word sequence\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:59:48.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

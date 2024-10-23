@@ -1,0 +1,14 @@
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\bin\Debug\net8.0\Deligatees.exe
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\bin\Debug\net8.0\Deligatees.deps.json
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\bin\Debug\net8.0\Deligatees.runtimeconfig.json
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\bin\Debug\net8.0\Deligatees.dll
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\bin\Debug\net8.0\Deligatees.pdb
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\obj\Debug\net8.0\Deligatees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\obj\Debug\net8.0\Deligatees.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\obj\Debug\net8.0\Deligatees.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\obj\Debug\net8.0\Deligatees.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\obj\Debug\net8.0\Deligatees.dll
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\obj\Debug\net8.0\refint\Deligatees.dll
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\obj\Debug\net8.0\Deligatees.pdb
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\obj\Debug\net8.0\Deligatees.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\Deligatees\Deligatees\obj\Debug\net8.0\ref\Deligatees.dll

@@ -1,0 +1,14 @@
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\bin\Debug\net8.0\LogicalQuestion1 Book Store.exe
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\bin\Debug\net8.0\LogicalQuestion1 Book Store.deps.json
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\bin\Debug\net8.0\LogicalQuestion1 Book Store.runtimeconfig.json
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\bin\Debug\net8.0\LogicalQuestion1 Book Store.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\bin\Debug\net8.0\LogicalQuestion1 Book Store.pdb
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\obj\Debug\net8.0\LogicalQuestion1 Book Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\obj\Debug\net8.0\LogicalQuestion1 Book Store.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\obj\Debug\net8.0\LogicalQuestion1 Book Store.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\obj\Debug\net8.0\LogicalQuestion1 Book Store.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\obj\Debug\net8.0\LogicalQuestion1 Book Store.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\obj\Debug\net8.0\refint\LogicalQuestion1 Book Store.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\obj\Debug\net8.0\LogicalQuestion1 Book Store.pdb
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\obj\Debug\net8.0\LogicalQuestion1 Book Store.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion 1 Bookstore\obj\Debug\net8.0\ref\LogicalQuestion1 Book Store.dll

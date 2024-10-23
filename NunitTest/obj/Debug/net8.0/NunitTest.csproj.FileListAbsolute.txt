@@ -1,0 +1,6 @@
+C:\Users\Mayasar\source\repos\NunitTest\bin\Debug\net8.0\CoverletSourceRootsMapping_NunitTest
+C:\Users\Mayasar\source\repos\NunitTest\obj\Debug\net8.0\NunitTest.csproj.AssemblyReference.cache
+C:\Users\Mayasar\source\repos\NunitTest\obj\Debug\net8.0\NunitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\NunitTest\obj\Debug\net8.0\NunitTest.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\NunitTest\obj\Debug\net8.0\NunitTest.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\NunitTest\obj\Debug\net8.0\NunitTest.csproj.CoreCompileInputs.cache

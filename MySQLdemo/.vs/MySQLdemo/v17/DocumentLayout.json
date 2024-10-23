@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0174EC56-0675-4A8B-9C58-7588294CD23C}|MySQLdemo.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0174EC56-0675-4A8B-9C58-7588294CD23C}|MySQLdemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0174EC56-0675-4A8B-9C58-7588294CD23C}|MySQLdemo.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqldemo\\mysqldemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0174EC56-0675-4A8B-9C58-7588294CD23C}|MySQLdemo.csproj|solutionrelative:mysqldemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0174EC56-0675-4A8B-9C58-7588294CD23C}|MySQLdemo.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqldemo\\model\\wiprodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0174EC56-0675-4A8B-9C58-7588294CD23C}|MySQLdemo.csproj|solutionrelative:model\\wiprodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WiprodbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLdemo\\Model\\WiprodbContext.cs",
+              "RelativeDocumentMoniker": "Model\\WiprodbContext.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLdemo\\Model\\WiprodbContext.cs",
+              "RelativeToolTip": "Model\\WiprodbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:30:04.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySQLdemo.csproj",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLdemo\\MySQLdemo.csproj",
+              "RelativeDocumentMoniker": "MySQLdemo.csproj",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLdemo\\MySQLdemo.csproj",
+              "RelativeToolTip": "MySQLdemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T05:25:46.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLdemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLdemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:48:36.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

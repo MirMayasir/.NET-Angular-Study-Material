@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\source\\repos\\MergSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59E0887E-B241-4D6A-98A3-628A051E5FF3}|MergSort\\MergSort.csproj|c:\\users\\mayasar\\source\\repos\\mergsort\\mergsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E0887E-B241-4D6A-98A3-628A051E5FF3}|MergSort\\MergSort.csproj|solutionrelative:mergsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MergSort\\MergSort\\Program.cs",
+              "RelativeDocumentMoniker": "MergSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MergSort\\MergSort\\Program.cs",
+              "RelativeToolTip": "MergSort\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:02:32.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

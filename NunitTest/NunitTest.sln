@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTest", "NunitTest.csproj", "{1676BC18-E708-4B1C-AA8D-DE609962340F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cal", "..\cal\cal.csproj", "{6C641EB5-E1EA-4C65-BB41-CCBB001B852D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1676BC18-E708-4B1C-AA8D-DE609962340F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1676BC18-E708-4B1C-AA8D-DE609962340F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1676BC18-E708-4B1C-AA8D-DE609962340F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1676BC18-E708-4B1C-AA8D-DE609962340F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C641EB5-E1EA-4C65-BB41-CCBB001B852D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C641EB5-E1EA-4C65-BB41-CCBB001B852D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C641EB5-E1EA-4C65-BB41-CCBB001B852D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C641EB5-E1EA-4C65-BB41-CCBB001B852D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73D18CD-2079-451A-BFA7-E0CC32B7F3E5}
+	EndGlobalSection
+EndGlobal

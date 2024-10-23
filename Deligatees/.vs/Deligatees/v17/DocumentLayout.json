@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\source\\Mayasir\\Deligatees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77015DD7-28B8-4C00-BAD3-C1D79C52C39E}|Deligatees\\Deligatees.csproj|c:\\users\\mayasar\\source\\mayasir\\deligatees\\deligatees\\genericdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77015DD7-28B8-4C00-BAD3-C1D79C52C39E}|Deligatees\\Deligatees.csproj|solutionrelative:deligatees\\genericdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77015DD7-28B8-4C00-BAD3-C1D79C52C39E}|Deligatees\\Deligatees.csproj|c:\\users\\mayasar\\source\\mayasir\\deligatees\\deligatees\\multicastdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77015DD7-28B8-4C00-BAD3-C1D79C52C39E}|Deligatees\\Deligatees.csproj|solutionrelative:deligatees\\multicastdelegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77015DD7-28B8-4C00-BAD3-C1D79C52C39E}|Deligatees\\Deligatees.csproj|c:\\users\\mayasar\\source\\mayasir\\deligatees\\deligatees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77015DD7-28B8-4C00-BAD3-C1D79C52C39E}|Deligatees\\Deligatees.csproj|solutionrelative:deligatees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\Deligatees\\Deligatees\\GenericDelegate.cs",
+              "RelativeDocumentMoniker": "Deligatees\\GenericDelegate.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\Deligatees\\Deligatees\\GenericDelegate.cs",
+              "RelativeToolTip": "Deligatees\\GenericDelegate.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:11:04.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MulticastDelegates.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\Deligatees\\Deligatees\\MulticastDelegates.cs",
+              "RelativeDocumentMoniker": "Deligatees\\MulticastDelegates.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\Deligatees\\Deligatees\\MulticastDelegates.cs",
+              "RelativeToolTip": "Deligatees\\MulticastDelegates.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:40:52.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\Deligatees\\Deligatees\\Program.cs",
+              "RelativeDocumentMoniker": "Deligatees\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\Deligatees\\Deligatees\\Program.cs",
+              "RelativeToolTip": "Deligatees\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:53:40.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

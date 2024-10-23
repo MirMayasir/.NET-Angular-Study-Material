@@ -1,0 +1,42 @@
+C:\Users\Mayasar\source\repos\LogicalQuestion1\obj\Debug\net8.0\LogicalQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\LogicalQuestion1\obj\Debug\net8.0\LogicalQuestion1.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion1\obj\Debug\net8.0\LogicalQuestion1.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\LogicalQuestion1\obj\Debug\net8.0\LogicalQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion1\bin\Debug\net8.0\LogicalQuestion1.exe
+C:\Users\Mayasar\source\repos\LogicalQuestion1\bin\Debug\net8.0\LogicalQuestion1.deps.json
+C:\Users\Mayasar\source\repos\LogicalQuestion1\bin\Debug\net8.0\LogicalQuestion1.runtimeconfig.json
+C:\Users\Mayasar\source\repos\LogicalQuestion1\bin\Debug\net8.0\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion1\bin\Debug\net8.0\LogicalQuestion1.pdb
+C:\Users\Mayasar\source\repos\LogicalQuestion1\obj\Debug\net8.0\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion1\obj\Debug\net8.0\refint\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion1\obj\Debug\net8.0\LogicalQuestion1.pdb
+C:\Users\Mayasar\source\repos\LogicalQuestion1\obj\Debug\net8.0\LogicalQuestion1.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion1\obj\Debug\net8.0\ref\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\bin\Debug\net8.0\LogicalQuestion1.exe
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\bin\Debug\net8.0\LogicalQuestion1.deps.json
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\bin\Debug\net8.0\LogicalQuestion1.runtimeconfig.json
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\bin\Debug\net8.0\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\bin\Debug\net8.0\LogicalQuestion1.pdb
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\obj\Debug\net8.0\LogicalQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\obj\Debug\net8.0\LogicalQuestion1.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\obj\Debug\net8.0\LogicalQuestion1.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\obj\Debug\net8.0\LogicalQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\obj\Debug\net8.0\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\obj\Debug\net8.0\refint\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\obj\Debug\net8.0\LogicalQuestion1.pdb
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\obj\Debug\net8.0\LogicalQuestion1.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion 2 EmployeeManagment\obj\Debug\net8.0\ref\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\bin\Debug\net8.0\LogicalQuestion1.exe
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\bin\Debug\net8.0\LogicalQuestion1.deps.json
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\bin\Debug\net8.0\LogicalQuestion1.runtimeconfig.json
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\bin\Debug\net8.0\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\bin\Debug\net8.0\LogicalQuestion1.pdb
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\obj\Debug\net8.0\LogicalQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\obj\Debug\net8.0\LogicalQuestion1.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\obj\Debug\net8.0\LogicalQuestion1.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\obj\Debug\net8.0\LogicalQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\obj\Debug\net8.0\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\obj\Debug\net8.0\refint\LogicalQuestion1.dll
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\obj\Debug\net8.0\LogicalQuestion1.pdb
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\obj\Debug\net8.0\LogicalQuestion1.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\LogicalQuestion 4 ContactStorage\obj\Debug\net8.0\ref\LogicalQuestion1.dll

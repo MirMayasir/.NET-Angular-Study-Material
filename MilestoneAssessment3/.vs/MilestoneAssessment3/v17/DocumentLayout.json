@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|c:\\users\\mayasar\\source\\repos\\milestoneassessment3\\controllers\\useprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|solutionrelative:controllers\\useprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|c:\\users\\mayasar\\source\\repos\\milestoneassessment3\\controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|solutionrelative:controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|c:\\users\\mayasar\\source\\repos\\milestoneassessment3\\gymdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|solutionrelative:gymdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|c:\\users\\mayasar\\source\\repos\\milestoneassessment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|c:\\users\\mayasar\\source\\repos\\milestoneassessment3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|c:\\users\\mayasar\\source\\repos\\milestoneassessment3\\services\\nutritionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|solutionrelative:services\\nutritionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|c:\\users\\mayasar\\source\\repos\\milestoneassessment3\\services\\userprofileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|solutionrelative:services\\userprofileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|c:\\users\\mayasar\\source\\repos\\milestoneassessment3\\models\\nutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|solutionrelative:models\\nutrition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|c:\\users\\mayasar\\source\\repos\\milestoneassessment3\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51536AF0-3230-4B95-BE85-CC39953684CE}|MilestoneAssessment3.csproj|solutionrelative:models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:25:49.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nutritionController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Controllers\\nutritionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\nutritionController.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Controllers\\nutritionController.cs",
+              "RelativeToolTip": "Controllers\\nutritionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:22:43.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NutritionServices.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Services\\NutritionServices.cs",
+              "RelativeDocumentMoniker": "Services\\NutritionServices.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Services\\NutritionServices.cs",
+              "RelativeToolTip": "Services\\NutritionServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:17:43.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nutrition.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Models\\Nutrition.cs",
+              "RelativeDocumentMoniker": "Models\\Nutrition.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Models\\Nutrition.cs",
+              "RelativeToolTip": "Models\\Nutrition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:16:55.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "useprofileController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Controllers\\useprofileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\useprofileController.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Controllers\\useprofileController.cs",
+              "RelativeToolTip": "Controllers\\useprofileController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA8wCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:02:25.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T11:47:14.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GymDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\GymDatabase.cs",
+              "RelativeDocumentMoniker": "GymDatabase.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\GymDatabase.cs",
+              "RelativeToolTip": "GymDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:45:56.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "userprofileServices.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Services\\userprofileServices.cs",
+              "RelativeDocumentMoniker": "Services\\userprofileServices.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Services\\userprofileServices.cs",
+              "RelativeToolTip": "Services\\userprofileServices.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:43:30.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\MilestoneAssessment3\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Models\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:37:05.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

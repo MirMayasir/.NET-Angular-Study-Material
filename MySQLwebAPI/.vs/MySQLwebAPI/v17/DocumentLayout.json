@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqlwebapi\\controllers\\wiprocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|solutionrelative:controllers\\wiprocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqlwebapi\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqlwebapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqlwebapi\\repositery\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|solutionrelative:repositery\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqlwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqlwebapi\\repositery\\iemployerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|solutionrelative:repositery\\iemployerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqlwebapi\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|c:\\users\\mayasar\\source\\mayasir\\mysqlwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{206851E5-F0C3-4F2F-AE04-7336904B8B58}|MySQLwebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:33:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WiproController.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Controllers\\WiproController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WiproController.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Controllers\\WiproController.cs",
+              "RelativeToolTip": "Controllers\\WiproController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:24:31.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:04:13.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:02:25.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Repositery\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Repositery\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Repositery\\EmployeeRepo.cs",
+              "RelativeToolTip": "Repositery\\EmployeeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:56:04.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Repositery\\IEmployeRepo.cs",
+              "RelativeDocumentMoniker": "Repositery\\IEmployeRepo.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Repositery\\IEmployeRepo.cs",
+              "RelativeToolTip": "Repositery\\IEmployeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:49:37.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T10:21:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\Mayasir\\MySQLwebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:16:21.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

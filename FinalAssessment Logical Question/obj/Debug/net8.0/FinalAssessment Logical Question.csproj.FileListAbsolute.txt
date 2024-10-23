@@ -1,0 +1,14 @@
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\bin\Debug\net8.0\FinalAssessment Logical Question.exe
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\bin\Debug\net8.0\FinalAssessment Logical Question.deps.json
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\bin\Debug\net8.0\FinalAssessment Logical Question.runtimeconfig.json
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\bin\Debug\net8.0\FinalAssessment Logical Question.dll
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\bin\Debug\net8.0\FinalAssessment Logical Question.pdb
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\obj\Debug\net8.0\FinalAssessment Logical Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\obj\Debug\net8.0\FinalAssessment Logical Question.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\obj\Debug\net8.0\FinalAssessment Logical Question.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\obj\Debug\net8.0\FinalAssessment Logical Question.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\obj\Debug\net8.0\FinalAssessment Logical Question.dll
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\obj\Debug\net8.0\refint\FinalAssessment Logical Question.dll
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\obj\Debug\net8.0\FinalAssessment Logical Question.pdb
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\obj\Debug\net8.0\FinalAssessment Logical Question.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\FinalAssessment Logical Question\obj\Debug\net8.0\ref\FinalAssessment Logical Question.dll

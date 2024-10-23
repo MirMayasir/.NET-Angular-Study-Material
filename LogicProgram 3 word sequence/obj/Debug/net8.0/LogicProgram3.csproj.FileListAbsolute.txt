@@ -1,0 +1,28 @@
+C:\Users\Mayasar\source\repos\LogicProgram3\bin\Debug\net8.0\LogicProgram3.exe
+C:\Users\Mayasar\source\repos\LogicProgram3\bin\Debug\net8.0\LogicProgram3.deps.json
+C:\Users\Mayasar\source\repos\LogicProgram3\bin\Debug\net8.0\LogicProgram3.runtimeconfig.json
+C:\Users\Mayasar\source\repos\LogicProgram3\bin\Debug\net8.0\LogicProgram3.dll
+C:\Users\Mayasar\source\repos\LogicProgram3\bin\Debug\net8.0\LogicProgram3.pdb
+C:\Users\Mayasar\source\repos\LogicProgram3\obj\Debug\net8.0\LogicProgram3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\LogicProgram3\obj\Debug\net8.0\LogicProgram3.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\LogicProgram3\obj\Debug\net8.0\LogicProgram3.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\LogicProgram3\obj\Debug\net8.0\LogicProgram3.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\LogicProgram3\obj\Debug\net8.0\LogicProgram3.dll
+C:\Users\Mayasar\source\repos\LogicProgram3\obj\Debug\net8.0\refint\LogicProgram3.dll
+C:\Users\Mayasar\source\repos\LogicProgram3\obj\Debug\net8.0\LogicProgram3.pdb
+C:\Users\Mayasar\source\repos\LogicProgram3\obj\Debug\net8.0\LogicProgram3.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\LogicProgram3\obj\Debug\net8.0\ref\LogicProgram3.dll
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\bin\Debug\net8.0\LogicProgram3.exe
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\bin\Debug\net8.0\LogicProgram3.deps.json
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\bin\Debug\net8.0\LogicProgram3.runtimeconfig.json
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\bin\Debug\net8.0\LogicProgram3.dll
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\bin\Debug\net8.0\LogicProgram3.pdb
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\obj\Debug\net8.0\LogicProgram3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\obj\Debug\net8.0\LogicProgram3.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\obj\Debug\net8.0\LogicProgram3.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\obj\Debug\net8.0\LogicProgram3.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\obj\Debug\net8.0\LogicProgram3.dll
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\obj\Debug\net8.0\refint\LogicProgram3.dll
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\obj\Debug\net8.0\LogicProgram3.pdb
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\obj\Debug\net8.0\LogicProgram3.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\LogicProgram 3 word sequence\obj\Debug\net8.0\ref\LogicProgram3.dll

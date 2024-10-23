@@ -1,0 +1,28 @@
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram2.exe
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram2.deps.json
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram2.runtimeconfig.json
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram2.dll
+C:\Users\Mayasar\source\repos\LogicalProgram3\bin\Debug\net8.0\LogicalProgram2.pdb
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram2.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram2.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram2.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram2.dll
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\refint\LogicalProgram2.dll
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram2.pdb
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\LogicalProgram2.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\LogicalProgram3\obj\Debug\net8.0\ref\LogicalProgram2.dll
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\bin\Debug\net8.0\LogicalProgram2.exe
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\bin\Debug\net8.0\LogicalProgram2.deps.json
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\bin\Debug\net8.0\LogicalProgram2.runtimeconfig.json
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\bin\Debug\net8.0\LogicalProgram2.dll
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\bin\Debug\net8.0\LogicalProgram2.pdb
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\obj\Debug\net8.0\LogicalProgram2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\obj\Debug\net8.0\LogicalProgram2.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\obj\Debug\net8.0\LogicalProgram2.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\obj\Debug\net8.0\LogicalProgram2.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\obj\Debug\net8.0\LogicalProgram2.dll
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\obj\Debug\net8.0\refint\LogicalProgram2.dll
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\obj\Debug\net8.0\LogicalProgram2.pdb
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\obj\Debug\net8.0\LogicalProgram2.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\LogicalProgram 2 EmpManag\obj\Debug\net8.0\ref\LogicalProgram2.dll

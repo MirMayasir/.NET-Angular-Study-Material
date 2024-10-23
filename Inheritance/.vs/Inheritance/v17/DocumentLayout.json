@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\source\\repos\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED28C42D-3F38-4D31-AB77-CC4A751CABD7}|Inheritance\\Inheritance.csproj|c:\\users\\mayasar\\source\\repos\\inheritance\\inheritance\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED28C42D-3F38-4D31-AB77-CC4A751CABD7}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED28C42D-3F38-4D31-AB77-CC4A751CABD7}|Inheritance\\Inheritance.csproj|c:\\users\\mayasar\\source\\repos\\inheritance\\inheritance\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED28C42D-3F38-4D31-AB77-CC4A751CABD7}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\Inheritance\\Inheritance\\Shape.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Shape.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\Inheritance\\Inheritance\\Shape.cs",
+              "RelativeToolTip": "Inheritance\\Shape.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAiwE4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:18:44.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RectangleShape.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\Inheritance\\Inheritance\\RectangleShape.cs",
+              "RelativeDocumentMoniker": "Inheritance\\RectangleShape.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\Inheritance\\Inheritance\\RectangleShape.cs",
+              "RelativeToolTip": "Inheritance\\RectangleShape.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:18:27.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
