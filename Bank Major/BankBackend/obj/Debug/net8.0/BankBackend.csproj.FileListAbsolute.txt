@@ -1,0 +1,14 @@
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\bin\Debug\net8.0\BankBackend.deps.json
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\bin\Debug\net8.0\BankBackend.runtimeconfig.json
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\bin\Debug\net8.0\BankBackend.dll
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\bin\Debug\net8.0\BankBackend.pdb
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\BankBackend.csproj.AssemblyReference.cache
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\BankBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\BankBackend.AssemblyInfoInputs.cache
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\BankBackend.AssemblyInfo.cs
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\BankBackend.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\BankBackend.dll
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\refint\BankBackend.dll
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\BankBackend.pdb
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\BankBackend.genruntimeconfig.cache
+C:\Users\Mayasar\Desktop\Wipro Training files\Bank\BankBackend\obj\Debug\net8.0\ref\BankBackend.dll

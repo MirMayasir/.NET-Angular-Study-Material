@@ -1,0 +1,11 @@
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\bin\Debug\net8.0\CalcLib.deps.json
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\bin\Debug\net8.0\CalcLib.dll
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\bin\Debug\net8.0\CalcLib.pdb
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\obj\Debug\net8.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\obj\Debug\net8.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\obj\Debug\net8.0\CalcLib.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\obj\Debug\net8.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\obj\Debug\net8.0\CalcLib.dll
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\obj\Debug\net8.0\refint\CalcLib.dll
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\obj\Debug\net8.0\CalcLib.pdb
+C:\Users\Mayasar\source\repos\CalcLib\CalcLib\obj\Debug\net8.0\ref\CalcLib.dll

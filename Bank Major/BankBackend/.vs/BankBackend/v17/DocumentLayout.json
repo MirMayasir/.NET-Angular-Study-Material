@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\source\\repos\\Bank Major\\BankBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{701D1D2F-D261-4A63-B721-F7AA63A4D7CA}|BankBackend.csproj|c:\\users\\mayasar\\source\\repos\\bank major\\bankbackend\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701D1D2F-D261-4A63-B721-F7AA63A4D7CA}|BankBackend.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701D1D2F-D261-4A63-B721-F7AA63A4D7CA}|BankBackend.csproj|c:\\users\\mayasar\\source\\repos\\bank major\\bankbackend\\models\\bankdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701D1D2F-D261-4A63-B721-F7AA63A4D7CA}|BankBackend.csproj|solutionrelative:models\\bankdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankdatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\Bank Major\\BankBackend\\Models\\BankdatabaseContext.cs",
+              "RelativeDocumentMoniker": "Models\\BankdatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\Bank Major\\BankBackend\\Models\\BankdatabaseContext.cs",
+              "RelativeToolTip": "Models\\BankdatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:53:22.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\Bank Major\\BankBackend\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\Bank Major\\BankBackend\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:49:59.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

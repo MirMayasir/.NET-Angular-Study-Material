@@ -1,0 +1,4 @@
+C:\Users\Mayasar\source\repos\cal\obj\Debug\net8.0\cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\cal\obj\Debug\net8.0\cal.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\cal\obj\Debug\net8.0\cal.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\cal\obj\Debug\net8.0\cal.csproj.CoreCompileInputs.cache

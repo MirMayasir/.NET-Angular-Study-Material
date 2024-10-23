@@ -1,0 +1,14 @@
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\obj\Debug\net8.0\CalPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\obj\Debug\net8.0\CalPrj.AssemblyInfoInputs.cache
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\obj\Debug\net8.0\CalPrj.AssemblyInfo.cs
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\obj\Debug\net8.0\CalPrj.csproj.CoreCompileInputs.cache
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\bin\Debug\net8.0\CalPrj.exe
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\bin\Debug\net8.0\CalPrj.deps.json
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\bin\Debug\net8.0\CalPrj.runtimeconfig.json
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\bin\Debug\net8.0\CalPrj.dll
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\bin\Debug\net8.0\CalPrj.pdb
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\obj\Debug\net8.0\CalPrj.dll
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\obj\Debug\net8.0\refint\CalPrj.dll
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\obj\Debug\net8.0\CalPrj.pdb
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\obj\Debug\net8.0\CalPrj.genruntimeconfig.cache
+C:\Users\Mayasar\source\repos\CalculatorProject\CalPrj\obj\Debug\net8.0\ref\CalPrj.dll

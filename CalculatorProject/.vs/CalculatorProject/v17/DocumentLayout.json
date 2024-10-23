@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906A2495-EB7D-4103-B611-8A4A57CB2668}|CalPrj\\CalPrj.csproj|c:\\users\\mayasar\\source\\repos\\calculatorproject\\calprj\\calprj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{906A2495-EB7D-4103-B611-8A4A57CB2668}|CalPrj\\CalPrj.csproj|solutionrelative:calprj\\calprj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA37A628-CF3E-44DC-B079-2B60C73A92F7}|CalculatorTest\\CalculatorTest.csproj|c:\\users\\mayasar\\source\\repos\\calculatorproject\\calculatortest\\calculatortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA37A628-CF3E-44DC-B079-2B60C73A92F7}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\calculatortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA37A628-CF3E-44DC-B079-2B60C73A92F7}|CalculatorTest\\CalculatorTest.csproj|c:\\users\\mayasar\\source\\repos\\calculatorproject\\calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA37A628-CF3E-44DC-B079-2B60C73A92F7}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906A2495-EB7D-4103-B611-8A4A57CB2668}|CalPrj\\CalPrj.csproj|c:\\users\\mayasar\\source\\repos\\calculatorproject\\calprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906A2495-EB7D-4103-B611-8A4A57CB2668}|CalPrj\\CalPrj.csproj|solutionrelative:calprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906A2495-EB7D-4103-B611-8A4A57CB2668}|CalPrj\\CalPrj.csproj|c:\\users\\mayasar\\source\\repos\\calculatorproject\\calprj\\calcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906A2495-EB7D-4103-B611-8A4A57CB2668}|CalPrj\\CalPrj.csproj|solutionrelative:calprj\\calcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalculatorTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalculatorTest\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorTest\\UnitTest1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:22:03.438Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalPrj",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalPrj\\CalPrj.csproj",
+              "RelativeDocumentMoniker": "CalPrj\\CalPrj.csproj",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalPrj\\CalPrj.csproj",
+              "RelativeToolTip": "CalPrj\\CalPrj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T10:57:32.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTest",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalculatorTest\\CalculatorTest.csproj",
+              "RelativeDocumentMoniker": "CalculatorTest\\CalculatorTest.csproj",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalculatorTest\\CalculatorTest.csproj",
+              "RelativeToolTip": "CalculatorTest\\CalculatorTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T10:57:20.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalcMain.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalPrj\\CalcMain.cs",
+              "RelativeDocumentMoniker": "CalPrj\\CalcMain.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalPrj\\CalcMain.cs",
+              "RelativeToolTip": "CalPrj\\CalcMain.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:51:13.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalPrj\\Program.cs",
+              "RelativeDocumentMoniker": "CalPrj\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\source\\repos\\CalculatorProject\\CalPrj\\Program.cs",
+              "RelativeToolTip": "CalPrj\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T04:42:17.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

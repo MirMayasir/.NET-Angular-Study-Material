@@ -1,0 +1,32 @@
+<div class="container">
+  <div *ngIf="subscription">
+    <!-- Display subscription status -->
+    <p>Subscription Status: <span>{{ subscription.isSubscribed ? 'Subscribed' : 'Not Subscribed' }}</span></p>
+    
+    <!-- Display subscription date -->
+    <p>Subscription Date: {{ subscription.subscriptionDate | date }}</p>
+
+    <p>Unsubscribed Date: {{ subscription.unsubscribeDate | date }}</p>
+
+    <p>My Plan : {{subscription.planType}}</p>
+    
+    <!-- Display unsubscribe date if available -->
+    <p *ngIf="subscription.unsubscribeDate">Unsubscribe Date: {{ subscription.unsubscribeDate | date }}</p>
+  </div>
+
+  <!-- Show plan selection only if not subscribed -->
+  <div *ngIf="!isSubscribed">
+    <label for="planType">Choose a plan:</label>
+    <select id="planType" [(ngModel)]="selectedPlanType">
+      <option *ngFor="let plan of availablePlans" [value]="plan">{{ plan }}</option>
+    </select>
+  </div>
+
+  <!-- Subscription/Unsubscription button -->
+  <button (click)="toggleSubscription()">
+    {{ isSubscribed ? 'Unsubscribe' : 'Subscribe' }}
+  </button>
+
+  <!-- Display message after an action -->
+  <p *ngIf="message" class="message">{{ message }}</p>
+</div>

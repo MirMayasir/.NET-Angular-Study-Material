@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|c:\\users\\mayasar\\desktop\\wipro training files\\bank\\bankproject\\bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|c:\\users\\mayasar\\desktop\\wipro training files\\bank\\bankproject\\bankproject\\entityframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\entityframework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|c:\\users\\mayasar\\desktop\\wipro training files\\bank\\bankproject\\bankproject\\models\\accountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\accountdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|c:\\users\\mayasar\\desktop\\wipro training files\\bank\\bankproject\\bankproject\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|c:\\users\\mayasar\\desktop\\wipro training files\\bank\\bankproject\\bankproject\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|c:\\users\\mayasar\\desktop\\wipro training files\\bank\\bankproject\\bankproject\\models\\bankdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE23AC-3552-4DC5-8F8E-C686578A2E34}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\models\\bankdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Models\\Transaction.cs",
+              "RelativeToolTip": "BankProject\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:01:18.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Models\\AccountDetail.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\AccountDetail.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Models\\AccountDetail.cs",
+              "RelativeToolTip": "BankProject\\Models\\AccountDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:49:36.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityFramework.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\EntityFramework.cs",
+              "RelativeDocumentMoniker": "BankProject\\EntityFramework.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\EntityFramework.cs",
+              "RelativeToolTip": "BankProject\\EntityFramework.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:44:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankdatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Models\\BankdatabaseContext.cs",
+              "RelativeDocumentMoniker": "BankProject\\Models\\BankdatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Models\\BankdatabaseContext.cs",
+              "RelativeToolTip": "BankProject\\Models\\BankdatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:35:38.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Backend.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Backend.cs",
+              "RelativeDocumentMoniker": "BankProject\\Backend.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Backend.cs",
+              "RelativeToolTip": "BankProject\\Backend.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:45:43.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Program.cs",
+              "RelativeDocumentMoniker": "BankProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Mayasar\\Desktop\\Wipro Training files\\Bank\\BankProject\\BankProject\\Program.cs",
+              "RelativeToolTip": "BankProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T05:30:52.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

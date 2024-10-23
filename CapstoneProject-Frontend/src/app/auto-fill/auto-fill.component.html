@@ -1,0 +1,52 @@
+<!-- <div class="auto-fill-container">
+    <h2>Subscription Details</h2>
+  
+    <div *ngIf="subscription">
+      <p><strong>Plan Type:</strong> {{ autoFillData.planType }}</p>
+      <p><strong>Status:</strong> {{ autoFillData.status }}</p>
+      <p><strong>Start Date:</strong> {{ autoFillData.startDate }}</p>
+      <p><strong>Next Subscription Date:</strong> {{ autoFillData.nextSubscriptionDate }}</p>
+      
+    </div>
+  
+    <div *ngIf="message" class="message">
+      {{ message }}
+    </div>
+  </div>
+   -->
+
+   <!-- auto-fill.component.html -->
+
+<div class="auto-fill-container">
+  <h2>Subscription and Booking Details</h2>
+
+  <!-- Subscription Details -->
+  <div *ngIf="autoFillData">
+    <h3>Subscription Details</h3>
+    <p><strong>Plan Type:</strong> {{ autoFillData.planType }}</p>
+    <p><strong>Status:</strong> {{ autoFillData.status }}</p>
+    <p><strong>Start Date:</strong> {{ autoFillData.startDate }}</p>
+    <p><strong>Next Subscription Date:</strong> {{ autoFillData.nextSubscriptionDate }}</p>
+  </div>
+
+  <!-- Booking Details -->
+  <div *ngIf="lastBookingData?.length > 0; else noBookings">
+    <div *ngFor="let booking of lastBookingData">
+      <h3>Booking ID: {{ booking.bookingId }}</h3>
+      <p>Drug Name: {{ booking.drugName }}</p>
+      <p>Last Order Date: {{ booking.lastOrderDate }}</p>
+      <p>Next Prescription Date: {{ booking.nextPrescriptionDate }}</p>
+      <p>Manufacturer: {{ booking.manufacturer }}</p>
+      <p>Price: {{ booking.price | currency }}</p>
+      <hr>
+    </div>
+  </div>
+  
+  <ng-template #noBookings>
+    <p>No bookings available.</p>
+  </ng-template>
+  
+
+  <!-- Message Display -->
+  <div *ngIf="message" class="message">{{ message }}</div>
+</div>
